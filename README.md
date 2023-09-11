@@ -1,8 +1,8 @@
-# Music Database
-A music database using MySQL, Express.js, React.js and Node.js.
-
 # What does it do?
 Allows users to query, add, remove and modify songs on their playlists.
+
+# What technologies does it use?
+The music database uses MySQL, Express.js, React.js and Node.js.
 
 # Getting Started with Create React App
 
